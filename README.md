@@ -1,2 +1,2 @@
 # Multi-Insert-PHP
-Multi isert PHP to MYSQL
+Multi insert PHP to MYSQL
